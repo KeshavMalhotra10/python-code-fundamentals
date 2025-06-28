@@ -1,0 +1,13 @@
+dog
+cat
+pig
+elephant
+frog
+elephant
+frog
+elephant
+frog
+elephant
+frog
+giraffe
+giraffe
